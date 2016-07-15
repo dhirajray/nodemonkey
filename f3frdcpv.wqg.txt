@@ -1,0 +1,34 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#	new file:   .idea/jsLibraryMappings.xml
+#	new file:   .idea/libraries/nodemonkey_node_modules.xml
+#	new file:   .idea/vcs.xml
+#
+# Untracked files:
+#	.buildpath
+#	.idea/modules.xml
+#	.idea/nodemonkey.iml
+#	.idea/workspace.xml
+#	.project
+#	.settings/
+#	README.md
+#	README.md~
+#	app.js
+#	app.js~
+#	error_page.ejs
+#	error_page.ejs~
+#	layouts/
+#	lib/
+#	node_modules/
+#	nodejs.sql
+#	package.json
+#	pass.js
+#	public/
+#
+
